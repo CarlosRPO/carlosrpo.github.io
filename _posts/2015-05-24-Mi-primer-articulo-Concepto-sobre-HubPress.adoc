@@ -1,0 +1,7 @@
+= Mi primer artículo - Concepto sobre HubPress
+Carlos Restrepo
+
+Excelente herramienta: Simplicidad, lo más importante para mí a la hora de aprender algo nuevo.
+Aquí les dejo la url para el que lo quiera aprender http://hubpress.io/
+
+== HubPress
